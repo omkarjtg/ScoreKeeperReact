@@ -1,0 +1,17 @@
+img {
+    width: 400px;
+    height: 270px;  
+    margin: 5px;
+    border: 2px solid rgb(102, 101, 101);
+   
+  }
+h2 {
+  margin-top: 0;
+  margin-left: 5px;
+  margin-bottom: 0;
+  text-align: center;  
+  color: rgb(36, 36, 36);
+}
+.headerDiv {
+  border: 2px solid rgb(44, 44, 44);
+}
